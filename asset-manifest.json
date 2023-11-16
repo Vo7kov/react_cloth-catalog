@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.07fd0d77.chunk.css",
+    "main.css": "./static/css/main.16b71108.chunk.css",
     "main.js": "./static/js/main.4f523583.chunk.js",
     "main.js.map": "./static/js/main.4f523583.chunk.js.map",
     "reactPlayerDailyMotion.js": "./static/js/reactPlayerDailyMotion.b412a28e.chunk.js",
@@ -36,7 +36,7 @@
     "static/js/15.a6348fa5.chunk.js.map": "./static/js/15.a6348fa5.chunk.js.map",
     "index.html": "./index.html",
     "static/css/15.eb09a702.chunk.css.map": "./static/css/15.eb09a702.chunk.css.map",
-    "static/css/main.07fd0d77.chunk.css.map": "./static/css/main.07fd0d77.chunk.css.map",
+    "static/css/main.16b71108.chunk.css.map": "./static/css/main.16b71108.chunk.css.map",
     "static/js/15.a6348fa5.chunk.js.LICENSE.txt": "./static/js/15.a6348fa5.chunk.js.LICENSE.txt",
     "static/media/ItemPageAccordion.scss": "./static/media/selectAfter.38599182.svg",
     "static/media/LangDropdown.scss": "./static/media/selectAfterHover.f73d539a.svg"
@@ -45,7 +45,7 @@
     "static/js/runtime-main.64e5890a.js",
     "static/css/15.eb09a702.chunk.css",
     "static/js/15.a6348fa5.chunk.js",
-    "static/css/main.07fd0d77.chunk.css",
+    "static/css/main.16b71108.chunk.css",
     "static/js/main.4f523583.chunk.js"
   ]
 }
